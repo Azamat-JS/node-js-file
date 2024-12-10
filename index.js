@@ -124,3 +124,31 @@
 
 //------------- core modules ---------------------- 
 
+// const fs = require("fs")
+// const path = require("path")
+// const http = require("http")
+// const os = require("os")
+// const url = require("url")
+
+//--------------- local modules --------------
+
+// const {multiply, division}= require("./test")
+
+// console.log(multiply(3, 6));
+// console.log(division(18, 9));
+
+// import multiply from "./test.js";
+
+// console.log(multiply(2, 5));
+
+// import {multiply, division} from "./test.js"
+// console.log(multiply(2, 8));
+// console.log(division(8, 2));
+
+//------------- third-party modules -----------
+
+// const greeting = require("npm-code-package")
+
+// console.log(greeting("ali"));
+
+

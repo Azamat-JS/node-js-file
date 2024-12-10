@@ -1,0 +1,3 @@
+i am coding now
+you want to read this sentences.
+if you do, read it through buffer or stream. 
