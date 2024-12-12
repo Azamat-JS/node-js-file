@@ -1,16 +1,17 @@
 {
   "name": "npm-code-package",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "phone.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodemon phone.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.1",
     "nodemon": "^3.1.7",
     "npm-code-package": "^1.0.0"
